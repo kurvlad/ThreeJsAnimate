@@ -1,0 +1,11 @@
+Model Information:
+* title:	Дворец земледельцев. Казань
+* source:	https://sketchfab.com/3d-models/344c9acf23d343bf8f2a2ada21eece32
+* author:	zalomskij (https://sketchfab.com/zalomskij)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Дворец земледельцев. Казань" (https://sketchfab.com/3d-models/344c9acf23d343bf8f2a2ada21eece32) by zalomskij (https://sketchfab.com/zalomskij) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
